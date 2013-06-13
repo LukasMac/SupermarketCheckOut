@@ -1,9 +1,8 @@
 #SupermarketCheckOut
-===================
 
-[http://codekata.pragprog.com/2007/01/kata_nine_back_.html](http://codekata.pragprog.com/2007/01/kata_nine_back_.html)
 
-Kata Nine: Back to the CheckOut
+Kata Nine: Back to the CheckOut [http://codekata.pragprog.com/2007/01/kata_nine_back_.html](http://codekata.pragprog.com/2007/01/kata_nine_back_.html)
+
 
 Back to the supermarket. This week, we’ll implement the code for a checkout system that handles pricing schemes such as "apples cost 50 cents, three apples cost $1.30."
 
